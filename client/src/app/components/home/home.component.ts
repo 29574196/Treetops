@@ -40,4 +40,8 @@ export class HomeComponent implements OnInit {
          console.log('user deleted successfully!');
     })
   }
+
+
+  // Return the elements on odd positions in a list 
+  // [1,2,3,4,5,6]
 }
